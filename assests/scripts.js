@@ -15,6 +15,10 @@ var schedule = {
   hour15: "",
   hour16: "",
   hour17: "",
+  hour18: "",
+  hour19: "",
+  hour20: "",
+  hour21: "",
 }
 
 
