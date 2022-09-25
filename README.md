@@ -44,4 +44,4 @@ link to website:https://acooro.github.io/Work-Day-Scheduler/
 
 ## Picture
 
-https://i.imgur.com/K28niB0.png
+![image](https://user-images.githubusercontent.com/112712707/192150199-da68d472-54e9-4ba3-ad94-5ec3ea05d58c.png)
